@@ -1,4 +1,3 @@
-package tasks;
 
 /**
  * This class models a single point on the earth surface referenciable by its

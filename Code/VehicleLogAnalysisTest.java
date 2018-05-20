@@ -1,6 +1,5 @@
-package Test;
 
-import tasks.VehicleLogAnalysis;
+import VehicleLogAnalysis;
 
 /**
  * This is test class of the vehicle log analysis.
@@ -19,11 +18,11 @@ public class VehicleLogAnalysisTest {
         //create an instance of VehicleLogAnalysis class
         //ensure files are located at project root. otherwise replace
         //parameters with paths to files
-        VehicleLogAnalysis analysis = new VehicleLogAnalysis("2.vehicle_log.csv");
+        VehicleLogAnalysis analysis = new VehicleLogAnalysis("../2.vehicle_log.csv");
 
         //execute all three tasks
         analysis.task1();
-        analysis.task2("1.interest_points.csv");
+        analysis.task2("../1.interest_points.csv");
         analysis.task3();
        
        

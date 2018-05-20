@@ -1,4 +1,3 @@
-package tasks;
 
 /*
  *Ponts of Interest a specialized extension of point which allows for the seting 
