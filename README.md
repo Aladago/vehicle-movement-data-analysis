@@ -12,7 +12,10 @@ To run the program, clone the entire repository to your machine. Navigate to the
 
 Each of the two options above will create three text files (.txt) for the three different tasks of the competition. 
 
-## Additional Note
+## Requirements
+The files require Java SE development kit 8 or later installed. 
+
+### Additional Note
 The submission won second position in the competition. 
 
 
