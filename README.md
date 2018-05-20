@@ -1,5 +1,5 @@
 ## Repository Details
-The repository contains code which was submitted for a career fair competition at Ashesi University College in 2017. 
+The repository contains code which was submitted for a career fair competition at Ashesi University College in 2017. The competition is a university wide programming competition organized annually by the computer science department of the university. 
 The competition involved analyzing real data gathered from the movement of the university's buses and responding to some questions. 
 The tasks, instructions and descriptions of the competition can be found in the file _2017 Ashesi Career Fair Programming Competition.pdf_. The data can also be found in the folder _data_. All files are implemented in Java
 
@@ -11,3 +11,6 @@ To run the program, clone the entire repository to your machine. Navigate to the
     1. Next run the files by typing java VehicleLogAnalysisTest on the terminal and press enter. 
 
 Each of the two options above will create three text files (.txt) for the three different tasks of the competition. 
+
+## Additional Note
+The submission won second position in the competition. 
